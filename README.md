@@ -22,5 +22,5 @@ Auto Scaling to ensure reliability and performance.
 
 ## Documentation
 
-The complete implementation steps, screenshots, and validation are available in [Architecture Document](3%20Tier%Architecture%20Documentation.pdf)
+The complete implementation steps, screenshots, and validation are available in the following document : [📄 3 Tier Architecture Documentation.pdf](./3%20Tier%20Architecture%20Documentation.pdf)
 
